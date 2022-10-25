@@ -1,0 +1,55 @@
+x{
+  "project_info": {
+    "project_number": "145072357312",
+    "project_id": "storix-4dacd",
+    "storage_bucket": "storix-4dacd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145072357312:android:c7b2f4a5151e35981b1225",
+        "android_client_info": {
+          "package_name": "com.example.storix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145072357312-hmo1rnmv5s5ej4jq8seje49iki6465lj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcG_pbmoWapWBNTuc-m3hWeABRCLg2ezM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145072357312-hmo1rnmv5s5ej4jq8seje49iki6465lj.apps.googleusercontent.com",
+              "client_type": 3
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a4f7aa3520e2e1e74859903eac250ebef58f67d4
+            },
+            {
+              "client_id": "145072357312-cr1eojcknrct9vbi8sohladg6omr0hvq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.storix"
+              }
+<<<<<<< HEAD
+>>>>>>> 1c7f187b2410def41d022be7df0684ee070d8db7
+=======
+>>>>>>> a4f7aa3520e2e1e74859903eac250ebef58f67d4
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
